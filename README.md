@@ -1,21 +1,29 @@
-<div align="center">
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8497B0&center=true&vCenter=true&width=435&lines=Hello+World!+I'm+Soha;Developer+&+Tech+Enthusiast;Always+Learning..." alt="Typing SVG" />
+<p align="center">
+
+    <a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
+
+        <img src="https://readme-typing-svg.demolab.com?font=Didact+Gothic&pause=1000&color=8497B0&center=true&vCenter=true&width=435&lines=Hello+World!+I'm+Soha" alt="Typing SVG" />
+
+    </a>
+
+</p>
+
+
+
+<p align="center">
+
+  <a href="https://github.com/S4H0ST">
+
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=S4H0ST&show_icons=true&theme=transparent&hide_border=true&text_color=8497b0&title_color=8497b0&custom_title=My%20GitHub%20stats&hide_rank=false&rank_icon=github&icon_color=8497b0" alt="GitHub Stats">
+
   </a>
 
-  <br/>
+  <a href="https://github.com/S4H0ST">
 
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode&perline=7" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S4H0ST&layout=compact&hide_progress=true&theme=transparent&hide_border=true&text_color=8497b0&title_color=8497b0" alt="Top Languages">
 
-  <br/><br/>
+  </a>
 
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=S4H0ST&show_icons=true&theme=transparent&hide_border=true&text_color=8497b0&title_color=8497b0&icon_color=8497b0&count_private=true" height="160" alt="Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S4H0ST&layout=compact&hide_progress=true&theme=transparent&hide_border=true&text_color=8497b0&title_color=8497b0" height="160" alt="Langs" />
-  </div>
+  
 
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=S4H0ST&theme=transparent&hide_border=true&stroke=8497b0&ring=8497b0&fire=8497b0&currStreakNum=8497b0&sideNums=8497b0&currStreakLabel=8497b0&sideLabels=8497b0&dates=8497b0" alt="Streak" />
-
-</div>
+</p>
