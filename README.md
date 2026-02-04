@@ -38,15 +38,23 @@
   <h3>📊 GitHub Stats</h3>
   
   <p align="center">
-    <a href="https://github.com/S4HOST">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=S4HOST&show_icons=true&theme=tokyonight&hide_border=true&title_color=8497B0&icon_color=8497B0&text_color=c9d1d9&bg_color=0D1117&t=1" alt="Sohaib's Stats" />
+    <a href="https://github.com/S4H0ST">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=S4H0ST&show_icons=true&theme=tokyonight&hide_border=true&title_color=8497B0&icon_color=8497B0&text_color=c9d1d9&bg_color=0D1117&t=1" alt="Sohaib's Stats" />
     </a>
-    <a href="https://github.com/S4HOST">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S4HOST&layout=compact&hide_progress=true&theme=tokyonight&hide_border=true&title_color=8497B0&text_color=c9d1d9&bg_color=0D1117&t=1" alt="Top Languages" />
+    <a href="https://github.com/S4H0ST">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S4H0ST&layout=compact&hide_progress=true&theme=tokyonight&hide_border=true&title_color=8497B0&text_color=c9d1d9&bg_color=0D1117&t=1" alt="Top Languages" />
     </a>
   </p>
 
   <br/>
 
   <p>
-    <a href="
+    <a href="https://www.linkedin.com/in/sohaib-tarfi-elidrissi/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:sohaibtarfi@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+  </p>
+
+</div>
