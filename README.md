@@ -26,35 +26,32 @@
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    
   </p>
 
   <br/>
 
   <h3>📊 GitHub Stats</h3>
   
-  <p align="center">
-    <a href="https://github.com/S4H0ST">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=S4H0ST&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8497B0&icon_color=8497B0&text_color=c9d1d9" alt="Sohaib's Stats" />
-    </a>
-    <a href="https://github.com/S4H0ST">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S4H0ST&layout=compact&hide_progress=false&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8497B0&text_color=c9d1d9" alt="Top Languages" />
-    </a>
-  </p>
-
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=S4H0ST&theme=tokyonight&hide_border=true&background=0D1117&ring=8497B0&fire=8497B0&currStreakLabel=8497B0" alt="GitHub Streak" />
-  </p>
+  <table>
+    <tr>
+      <td align="center">
+        <img width="400" src="https://github-readme-stats.vercel.app/api?username=S4H0ST&show_icons=true&theme=tokyonight&hide_border=true&title_color=8497B0&icon_color=8497B0&text_color=c9d1d9&bg_color=0D1117" alt="Estadísticas de Sohaib" />
+      </td>
+      <td align="center">
+        <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S4H0ST&layout=compact&theme=tokyonight&hide_border=true&title_color=8497B0&text_color=c9d1d9&bg_color=0D1117" alt="Lenguajes más usados" />
+      </td>
+    </tr>
+  </table>
 
   <br/>
 
-  <a href="https://www.linkedin.com/in/sohaib-tarfi-elidrissi/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:sohaibtarfi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <p>
+    <a href="https://www.linkedin.com/in/sohaib-tarfi-elidrissi/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:sohaibtarfi@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+  </p>
 
 </div>
-
-
