@@ -39,10 +39,10 @@
   
   <p align="center">
     <a href="https://github.com/S4H0ST">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=S4H0ST&show_icons=true&theme=tokyonight&hide_border=true&title_color=8497B0&icon_color=8497B0&text_color=c9d1d9&bg_color=0D1117&t=1" alt="Sohaib's Stats" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=S4H0ST&show_icons=true&theme=tokyonight&hide_border=true&title_color=8497B0&icon_color=8497B0&text_color=c9d1d9&bg_color=0D1117&cache_seconds=86400" alt="Sohaib's Stats" />
     </a>
     <a href="https://github.com/S4H0ST">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S4H0ST&layout=compact&hide_progress=true&theme=tokyonight&hide_border=true&title_color=8497B0&text_color=c9d1d9&bg_color=0D1117&t=1" alt="Top Languages" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S4H0ST&layout=compact&hide_progress=true&theme=tokyonight&hide_border=true&title_color=8497B0&text_color=c9d1d9&bg_color=0D1117&cache_seconds=86400" alt="Top Languages" />
     </a>
   </p>
 
